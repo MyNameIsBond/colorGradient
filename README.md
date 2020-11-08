@@ -2,7 +2,8 @@
     Color Gradient SwiftUI in Light and Dark Appearance
 </h1>
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://thehappyprogrammer.com/wp-content/uploads/2020/11/try1-1024x627.png?raw=true)
+
 
 
 <p>
