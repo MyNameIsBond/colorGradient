@@ -8,7 +8,7 @@
 <hr>
 
 
-<p>On my website you will find the full port</p>
+<p>On my website you will find the full post</p>
 
 
 
