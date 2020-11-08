@@ -1,8 +1,8 @@
-<h1> A lesson on Color Gradient in SwiftUI	    Color Gradient SwiftUI in Light and Dark Appearance  </h1>
+<h1> A tutorial on Color Gradient in SwiftUI	    Color Gradient SwiftUI in Light and Dark Appearance  </h1>
     
 ![alt text](https://thehappyprogrammer.com/wp-content/uploads/2020/11/try1-1024x627.png?raw=true)
 <p>
-    This repo is a lesson on iOS and swiftUI. 
+    This repo is a tutorial on iOS and swiftUI. 
 </p>
 <hr>
 
